@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ToDoListApp {
-    List<String> list;
+    public List<String> list;
     int numTasks;
 
     public ToDoListApp() {
